@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AryaGaikwad
--  I’m interested in Machine Learning and Data Science
--  I’m currently studying the basics for ML
+-  Interested in Machine Learning and Data Science
+-  Currently studying the basics for ML
 
 <!---
 AryaGaikwad/AryaGaikwad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
