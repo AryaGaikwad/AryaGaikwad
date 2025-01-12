@@ -1,7 +1,7 @@
 <h1 align="center">Howdy, I'm Arya Gaikwad!</h1>
 
 # 💫 About Me:
-😇Strong Python programming skills<br>🫡ML developer with a focus on deep learning<br>📊Experience with Tableau for data visualization and communication<br>🔤Interest and experience in natural language processing (NLP)<br>👩‍🔬Currently developing and researching in NLP<br>✨Continuously learning and seeking new challenges in AI field
+🎓I'm first year MS DS student at UCSD<br>😇Strong Python programming skills<br>🫡ML developer with a focus on deep learning<br>📊Experience with Tableau for data visualization and communication<br>🔤Interest and experience in natural language processing (NLP)<br>👩‍🔬Currently developing and researching in NLP<br>✨Continuously learning and seeking new challenges in AI field
 
 
 ## 🌐 Socials:
