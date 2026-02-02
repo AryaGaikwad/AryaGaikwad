@@ -1,8 +1,22 @@
 <h1 align="center">Howdy, I'm Arya Gaikwad!</h1>
 
 # 💫 About Me:
-🎓I'm first year MS DS student at UCSD<br>😇Strong Python programming skills<br>🫡ML developer with a focus on deep learning<br>📊Experience with Tableau for data visualization and communication<br>🔤Interest and experience in natural language processing (NLP)<br>👩‍🔬Currently developing and researching in NLP<br>✨Continuously learning and seeking new challenges in AI field
+🎓I'm second year Masters in Data Science student at UCSD graduating in March 26<br>
+Turning data into decisions and AI into impact. I build ML systems that solve real business problems, from predictive modeling at scale to deploying production-grade AI pipelines.<br>
 
+# 🎯 What I Do:<br>
+Customer Segmentation & Predictive Modeling (XGBoost, scikit-learn, SHAP explainability)<br>
+LLM & RAG System Development (LangChain, OpenAI, FastAPI, vector search)<br>
+Data Engineering at Scale (PySpark, Databricks, Snowflake, AWS, SQL)<br>
+A/B Testing & ROI Analysis (causal inference, statistical modeling)<br>
+Data Storytelling for Stakeholders (Tableau, PowerBI, matplotlib)<br>
+
+# 📊 Recent Impact:<br>
+- Shaped targeting strategy for a $134M loyalty campaign at American Airlines by evaluating a $1M third-party data investment through ML modeling and customer segmentation.<br>
+- Shipped a real-time AI system serving 44K+ companies in under 50 seconds at Textify.ai.<br>
+- Building a supply chain AI agent to turn demand unpredictability into actionable decisions.<br>
+
+🔍 Seeking full-time roles where I can own the full cycle, from shaping the problem to shipping the model. Open to Product Data Scientist, Data Scientist, ML Engineer, AI Engineer, or NLP Engineer roles. 2026 start.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arya-gaikwad) 
@@ -13,8 +27,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=AryaGaikwad&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AryaGaikwad&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-# 🎓 My Coding Journey:
-#### I am Arya Gaikwad and I am pleased to share my coding journey. My journey began with Python, where I started with the fundamentals, including datatypes and data structures. Expanded my knowledge to include pandas and numpy libraries for machine learning. Through solving various data problems, I honed my skills in data preprocessing and analysis. As a member of my college's Robotics club for a year, I gained experience with the Arduino toolkit, programming, and building bots. My interest in AI led me to explore further in the field of machine learning, and I am currently studying deep learning. Additionally, I have a foundational understanding of natural language processing and am actively conducting research in this field.
+
 ---
 [![](https://visitcount.itsvg.in/api?id=AryaGaikwad&icon=0&color=0)](https://visitcount.itsvg.in)
 
